@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .navbar {
+    background-color: #343a40;
+  }
+  .navbar-brand {
+    color: #ffffff;
+  }
+  .navbar-nav .nav-link {
+    color: #ffffff;
+  }
+  .py-5 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  .carousel-inner {
+    border-radius: 10px;
+  }
+  
+  .card {
+    border: none;
+    transition: transform 0.2s;
+  }
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .card-title {
+    font-size: 1.25rem;
+    margin-top: 1rem;
+  }
+  .card-text {
+    color: #666;
+  }
